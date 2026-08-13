@@ -1,4 +1,4 @@
-# CreBee 社交媒体网关 (Skill)
+# CreBee 社交媒体网关 (Skill)-支持18+主流社媒平台
 
 [CreBee](https://www.crebee.cn) 社交媒体网关 Skill —— 统一 HTTP API 网关，让 AI Agent 自动化管理中国主流社交媒体平台。
 
